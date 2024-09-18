@@ -1,0 +1,6 @@
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\bin\Debug\CalcLogic.dll
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\bin\Debug\CalcLogic.pdb
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\obj\Debug\CalcLogic.csprojAssemblyReference.cache
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\obj\Debug\CalcLogic.csproj.CoreCompileInputs.cache
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\obj\Debug\CalcLogic.dll
+C:\Users\akashb12\source\repos\CalcLogic\CalcLogic\obj\Debug\CalcLogic.pdb
